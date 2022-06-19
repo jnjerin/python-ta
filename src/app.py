@@ -12,9 +12,9 @@ def prime(s):
 
 num=int (input("Enter a number: "))
 if prime (num):
-    print (num, " is Prime")
+    print (num, " is a Prime Number")
 else:
-    print (num, "is not a Prime")
+    print (num, "is not a Prime Number")
 
 
 def solution(s):
